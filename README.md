@@ -37,29 +37,3 @@ In the printer.cfg configuration, the X and Y motor currents are tuned for fast 
 https://www.youtube.com/watch?v=p2khr007bY0
 
 Project files can be downloaded via the link  https://www.printables.com/model/1717941-high-speed-mini-cartesian-3d-printer
-
-Credits / Sources
-
-- Vz-HextrudORT extruder
-
-Source: [VzBoT3D GitHub](https://github.com/VzBoT3D/Vz-HextrudORT)
-
-License: Creative Commons Attribution-NonCommercial 4.0 (CC-BY-NC 4.0)
-
-Original design by MirageC, adapted by VzBoT team.
-
-- Rapido Hotend
-
-Source: [Phaetus GitHub](https://github.com/Phaetus/Rapido)
-
-License: Personal use only, commercial use prohibited.
-
-Provided by Phaetus R&D team.
-
-- WS7040 24V Brushless Centrifugal Air Blower
-
-Source: Manufacturer reference CAD (Mellow / BigTreeTech)
-
-License: Reference CAD model, no explicit open-source license.
-
-Used for dimensional integration only.
