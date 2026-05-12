@@ -33,3 +33,7 @@ The printer uses an auto power-off system based on an Arduino relay module. Beca
 The printer also uses a Klicky Probe PCB, which ultimately turned out to be unnecessary due to the small bed size and the absence of significant thermal bed deformation (assuming you were lucky enough to get a flat carbon fiber plate). In practice, the bed probing system can be omitted entirely.
 
 In the printer.cfg configuration, the X and Y motor currents are tuned for fast Benchy printing. For normal operating conditions, it is recommended to reduce the current by 200 mA to lower motor heating. Additionally, change the microsteps from 16 to 32 — this will reduce noise and VFA at low printing speeds.
+
+https://www.youtube.com/watch?v=p2khr007bY0
+
+Project files can be downloaded via the link  https://www.printables.com/model/1717941-high-speed-mini-cartesian-3d-printer
