@@ -1,5 +1,7 @@
 # High-speed-mini-Cartesian-3D-printer
 High‑speed mini Cartesian 3D printer with a 120 mm carbon build plate.
+![printer](Images/011.jpeg)
+
 This project is best suited for people who have plenty of free time, a spare Flying Bear Ghost 5 printer, and access to a CNC milling machine for manufacturing frame parts, motor mounts, and printhead components.
 
 The printer turned out to be quite successful — it is capable of fast, high-quality printing while also being convenient to use and maintain.
